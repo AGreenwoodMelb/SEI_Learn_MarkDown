@@ -26,7 +26,7 @@
 
 
 
-![https://i.imgur.com/GUJboZG.jpg]
+![stolen from imgur](https://i.imgur.com/GUJboZG.jpg)
 <!-- Git Hub Specifics -->
 
 - [ ] Option 1
