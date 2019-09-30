@@ -43,6 +43,10 @@
 
 6. An apple a day keeps the doctor (sugreon) away. 
 
-7.  ***does what again?***
+7.  
+
+***python
+does what again?
+***
 
 
