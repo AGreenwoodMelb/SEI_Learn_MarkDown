@@ -27,7 +27,22 @@
 
 <!-- Git Hub Specifics -->
 
-[] Option 1
-[] Option 2
-[x] Checked Option
+- [] Option 1
+- [] Option 2
+- [x] Checked Option
+
+1. #head
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. An apple a day keeps the doctor (sugreon) away. 
+
+7. 
+
 
