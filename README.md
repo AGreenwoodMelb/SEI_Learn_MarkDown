@@ -27,11 +27,11 @@
 
 <!-- Git Hub Specifics -->
 
-- [] Option 1
-- [] Option 2
+- [ ] Option 1
+- [ ] Option 2
 - [x] Checked Option
 
-1. # head in a list item? 
+1. # I NEVEER REMEMBER THIS ONE 
 
 2. His son 
 
@@ -43,7 +43,7 @@
 
 6. An apple a day keeps the doctor (sugreon) away. 
 
-7.  
+7.  CANT REMEMBER
 
 ~~~python
 def toaster:
