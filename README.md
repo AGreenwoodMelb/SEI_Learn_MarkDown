@@ -33,16 +33,16 @@
 
 1. # head in a list item? 
 
-2. 
+2. His son 
 
-3. 
+3. Tuesday,  Thursday **Today** *Tomorrow*
 
-4. 
+4. chicken across first. Then Corn. Take Chicken back. Take Fox. Go back and collect chicken.
 
-5. 
+5. 2297 ?
 
 6. An apple a day keeps the doctor (sugreon) away. 
 
-7. 
+7.  ***does what again?***
 
 
