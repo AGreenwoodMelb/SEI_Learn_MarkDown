@@ -31,7 +31,7 @@
 - [] Option 2
 - [x] Checked Option
 
-1. #head
+1. # head in a list item? 
 
 2. 
 
