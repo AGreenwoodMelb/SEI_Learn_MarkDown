@@ -43,7 +43,7 @@
 
 5. 2297 ?
 
-6. An apple a day keeps the doctor (sugreon) away. 
+6. An apple a day keeps the doctor (surgeon) away. 
 
 7.  CANT REMEMBER
 
