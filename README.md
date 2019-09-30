@@ -22,5 +22,12 @@
 - Another item
 - Look another one
 
-[Is this the title](http://google.com.au "Link to google search Australia")
+[This is what appears in the browser](http://google.com.au "This is the tooltip")
+
+
+<!-- Git Hub Specifics -->
+
+[] Option 1
+[] Option 2
+[x] Checked Option
 
