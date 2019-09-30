@@ -45,8 +45,9 @@
 
 7.  
 
-***python
-does what again?
-***
+~~~python
+def toaster:
+    return "Toaster!"
+~~~
 
 
